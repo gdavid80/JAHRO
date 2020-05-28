@@ -33,7 +33,30 @@ header.site-header{
   
   
  }
+ .parte-media{
+  
+ /* background-image: url(../img/productos-destacados.png);
+  background-color: red;*/
+  background-position: center center;
+  background-size: cover;
+  margin-top: 450px;
+  height: 650px;
+  
 
+}
+.hero{
+  position: relative;
+  max-width: 1200px;
+}
+.barra{
+  position: absolute;
+  bottom: 590px;
+  max-width: 750px;
+  right: 230px;
+  
+  
+  
+}
 
 /*redes sociales
 
